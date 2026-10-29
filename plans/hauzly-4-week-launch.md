@@ -296,7 +296,7 @@ What if your home had a memory?
 ```
 **Link:** `hauzly.com` (live). Check that "Start free, no card" is above the fold on mobile. Web app = UTMs land directly; make sure sign-up saves `utm_source`/`utm_content` on the account so trials and activations can be counted by channel.
 
-**Instagram in-app browser:** taps open hauzly.com inside Instagram's browser, not Safari/Chrome. Before launch, test sign-up end to end inside it on iPhone and Android (Google sign-in is often blocked in in-app browsers). Prompt "Add to Home Screen" *after* sign-up, and tell iPhone users to open in Safari first: iOS can't add a web app to the home screen from Instagram's browser.
+**Instagram in-app browser** (✅ tested end to end by founders, Oct 29): taps open hauzly.com inside Instagram's browser, not Safari/Chrome. Before launch, test sign-up end to end inside it on iPhone and Android (Google sign-in is often blocked in in-app browsers). Prompt "Add to Home Screen" *after* sign-up, and tell iPhone users to open in Safari first: iOS can't add a web app to the home screen from Instagram's browser.
 
 | Channel | URL |
 |---|---|
