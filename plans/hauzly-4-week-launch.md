@@ -11,7 +11,7 @@
 **Assumptions to confirm before posting**
 - [CONFIRM] Aha moment = asking "when was the furnace last serviced?" and getting the answer with the invoice attached.
 - [CONFIRM] Starter tier includes photo/forward/ask. (Emailing providers is Home tier and up. Don't show it in Starter demos.)
-- [CONFIRM] App Store / Play links are live, and the 30-day trial needs no card, or say clearly if it does.
+- ✅ Web app at hauzly.com (no app stores). 30-day trial, **no card**. Say "no card" in every conversion CTA. Ready for volume per founders.
 - [CONFIRM] Founder stories used below (the "drawer" origin) are true. If not, swap in the real one.
 - [CONFIRM] At least 2 beta users will give a quote with permission by Week 3.
 
@@ -194,12 +194,12 @@ VISUAL
  0:07 Snap the water heater label → logged.
  0:11 Type: "When does the water heater warranty end?"
  0:14 Answer + attached doc on screen. Face cam: relieved nod.
- 0:17 End card: "Download Hauzly — 30 days free." Mascot.
+ 0:17 End card: "Start free at hauzly.com. 30 days, no card." Mascot.
 CAPTION
  I asked my house when the warranty ends. It answered.
  More: Set up with one utility bill. Snap labels, forward invoices, ask
  anything. Link in bio.
-CTA: Download Hauzly — 30 days free.
+CTA: Start free at hauzly.com. 30 days, no card.
 HASHTAGS: #firsttimehomebuyer #homemaintenance #newhomeowner #homeapp
 METRIC TO WATCH: Bio link taps → trial starts (utm_content=bio).
 ```
@@ -294,7 +294,9 @@ Your AI house manager. Snap a photo, forward a bill, ask anything.
 What if your home had a memory?
 30 days free ↓
 ```
-**Link:** `hauzly.com/start` [CONFIRM: a landing page that routes to App Store/Play by device]. Don't link straight to the App Store: it drops UTMs. Pass `utm_*` through to App Store Connect campaign links (`pt`/`ct`) and the Play Install Referrer [CONFIRM attribution tool, e.g. Branch/AppsFlyer/Adjust].
+**Link:** `hauzly.com/start` [CONFIRM: page exists, or swap for the sign-up URL]. Web app = UTMs land directly; make sure sign-up saves `utm_source`/`utm_content` on the account so trials and activations can be counted by channel.
+
+**Instagram in-app browser:** taps open hauzly.com inside Instagram's browser, not Safari/Chrome. Before launch, test sign-up end to end inside it on iPhone and Android (Google sign-in is often blocked in in-app browsers). Prompt "Add to Home Screen" *after* sign-up, and tell iPhone users to open in Safari first: iOS can't add a web app to the home screen from Instagram's browser.
 
 | Channel | URL |
 |---|---|
@@ -338,5 +340,5 @@ Skip follower count as a goal. Track it, but a follower who never taps the link 
 4. Decide:
    - IG on pace (≥15 trials/week by Week 2): keep the mix, boost winners in Week 4.
    - Partners ahead of IG: move founder time from content to partner outreach. IG drops to 3 posts/week, all proof and demo.
-   - Taps fine but sign-ups <20%: fix `hauzly.com/start` and the store listing, not Instagram.
+   - Taps fine but sign-ups <20%: fix `hauzly.com/start` and sign-up inside Instagram's in-app browser, not Instagram content.
    - Trials fine but activation low: fix onboarding (first-bill upload nudge) before spending more on traffic.

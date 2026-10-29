@@ -10,7 +10,7 @@
 - **Higher tiers:** Hauzly Home and up emails providers on your behalf and syncs to Google Calendar/Tasks. Family plan = multiple homes. Plans: Starter, Home, Family.
 - **Brand assets:** Name HAUZLY; orange house-face mascot (built into the "u" of the wordmark).
 - **The "aha" moment in the app:** TODO (guess: asking "when was the furnace last serviced?" and getting the answer with the invoice attached — confirm)
-- **Links:** hauzly.com · App Store / Play: TODO
+- **Platform:** Web app at hauzly.com — no App Store / Google Play. Users "Add to Home Screen" after sign-up.
 
 ## Audience
 - **Three audiences** (tag every post with one — never write to all three at once):
@@ -31,7 +31,9 @@
 - **Handle:** @hauzlyai
 - **Current followers / avg reach / avg saves:** New account (set up Oct 2026), a handful of followers. No baseline yet.
 - **Stage:** Soft launch.
-- **Conversion action:** Download the app and start the 30-day free trial. Every conversion post has one CTA: "Download Hauzly — 30 days free."
+- **Conversion action:** Sign up at hauzly.com and start the 30-day free trial. **No card required.** Every conversion post has one CTA: "Start free at hauzly.com. 30 days, no card."
+- **Don't say "download"** — there's nothing in the app stores, and people will search there and find nothing.
+- **Readiness:** Founders say the app is tested for large volume.
 - **Goal for next 90 days:** 1,000 trial starts.
 - **Better goal to track alongside it:** *activated* trials — a trial where the user uploads a first bill/invoice or logs a first appliance in week one. Trial starts that never activate don't convert to paid. Report both.
 - **Reality check:** Organic Instagram alone from a near-zero account is unlikely to get there. Rough funnel (assumptions, replace with real data after week 2): reach → profile visit ~1–3% → link tap ~10–20% → sign-up ~20–40%. That's roughly 0.02–0.24% of reach, i.e. ~400K–5M reach for 1,000 sign-ups. Instagram's job is to be the proof and the destination; other channels (realtor partners, creator collabs, founder accounts, small paid boosts on proven posts) have to drive volume. Track sign-ups by source (UTM link in bio) from day one.
