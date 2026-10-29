@@ -12,7 +12,7 @@
 - [CONFIRM] Aha moment = asking "when was the furnace last serviced?" and getting the answer with the invoice attached.
 - [CONFIRM] Starter tier includes photo/forward/ask. (Emailing providers is Home tier and up. Don't show it in Starter demos.)
 - ✅ Web app at hauzly.com (no app stores). 30-day trial, **no card**. Say "no card" in every conversion CTA. Ready for volume per founders.
-- [CONFIRM] Founder stories used below (the "drawer" origin) are true. If not, swap in the real one.
+- ✅ Junk-drawer origin story is true. Post 3 is a go.
 - [CONFIRM] At least 2 beta users will give a quote with permission by Week 3.
 
 ---
@@ -56,7 +56,7 @@ Post times: test 7–8am vs 7–9pm local in Week 1. Keep whichever wins.
 |---|-----|-----|-----|--------|------|
 | 9 | Mon | Reach | A3 | Reel (couple skit) | "When did we last service the furnace?" "...You did it." "I thought YOU did it." |
 | 10 | Wed | Trust | A1 | Carousel | First winter in your first home: 6 things to do before the freeze |
-| 11 | Thu | Trust | A1 | **Collab Reel** with partner realtor | "What I tell every first-time buyer at closing" |
+| 11 | Thu | Trust | A1 | **Collab Reel** with partner realtor | "What I tell every first-time buyer at closing." **Deadline:** realtor signed and filming by Fri Nov 13. **Fallback:** Josh/Matt Reel, "What our realtor didn't tell us at closing," and the Collab moves to Week 4. |
 | 12 | Sat | Reach | A1 | Reel | "Things you'll Google at 2am your first year as a homeowner" |
 
 **Stories:** Freeze checklist as 4 frames with a link sticker on the last. Realtor takeover (10 min of Stories) on Collab day.
@@ -294,13 +294,13 @@ Your AI house manager. Snap a photo, forward a bill, ask anything.
 What if your home had a memory?
 30 days free ↓
 ```
-**Link:** `hauzly.com/start` [CONFIRM: page exists, or swap for the sign-up URL]. Web app = UTMs land directly; make sure sign-up saves `utm_source`/`utm_content` on the account so trials and activations can be counted by channel.
+**Link:** `hauzly.com` (live). Check that "Start free, no card" is above the fold on mobile. Web app = UTMs land directly; make sure sign-up saves `utm_source`/`utm_content` on the account so trials and activations can be counted by channel.
 
 **Instagram in-app browser:** taps open hauzly.com inside Instagram's browser, not Safari/Chrome. Before launch, test sign-up end to end inside it on iPhone and Android (Google sign-in is often blocked in in-app browsers). Prompt "Add to Home Screen" *after* sign-up, and tell iPhone users to open in Safari first: iOS can't add a web app to the home screen from Instagram's browser.
 
 | Channel | URL |
 |---|---|
-| IG bio | `hauzly.com/start?utm_source=instagram&utm_medium=social&utm_campaign=launch_nov26&utm_content=bio` |
+| IG bio | `hauzly.com/?utm_source=instagram&utm_medium=social&utm_campaign=launch_nov26&utm_content=bio` |
 | IG Stories link sticker | `...utm_source=instagram&utm_medium=social&utm_campaign=launch_nov26&utm_content=story_[postdate]` |
 | IG paid boost | `...utm_source=instagram&utm_medium=paid&utm_campaign=boost_nov26&utm_content=[post#]` |
 | Realtor / broker partner | `...utm_source=partner&utm_medium=referral&utm_campaign=closing_gift&utm_content=[partnername]` |
@@ -340,5 +340,5 @@ Skip follower count as a goal. Track it, but a follower who never taps the link 
 4. Decide:
    - IG on pace (≥15 trials/week by Week 2): keep the mix, boost winners in Week 4.
    - Partners ahead of IG: move founder time from content to partner outreach. IG drops to 3 posts/week, all proof and demo.
-   - Taps fine but sign-ups <20%: fix `hauzly.com/start` and sign-up inside Instagram's in-app browser, not Instagram content.
+   - Taps fine but sign-ups <20%: fix the hauzly.com mobile landing page and sign-up inside Instagram's in-app browser, not Instagram content.
    - Trials fine but activation low: fix onboarding (first-bill upload nudge) before spending more on traffic.
