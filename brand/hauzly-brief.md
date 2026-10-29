@@ -30,7 +30,10 @@
 ## Instagram account
 - **Handle:** @hauzlyai
 - **Current followers / avg reach / avg saves:** New account (set up Oct 2026), a handful of followers. No baseline yet.
-- **Goal for next 90 days:** 1,000 app sign-ups.
+- **Stage:** Soft launch.
+- **Conversion action:** Download the app and start the 30-day free trial. Every conversion post has one CTA: "Download Hauzly — 30 days free."
+- **Goal for next 90 days:** 1,000 trial starts.
+- **Better goal to track alongside it:** *activated* trials — a trial where the user uploads a first bill/invoice or logs a first appliance in week one. Trial starts that never activate don't convert to paid. Report both.
 - **Reality check:** Organic Instagram alone from a near-zero account is unlikely to get there. Rough funnel (assumptions, replace with real data after week 2): reach → profile visit ~1–3% → link tap ~10–20% → sign-up ~20–40%. That's roughly 0.02–0.24% of reach, i.e. ~400K–5M reach for 1,000 sign-ups. Instagram's job is to be the proof and the destination; other channels (realtor partners, creator collabs, founder accounts, small paid boosts on proven posts) have to drive volume. Track sign-ups by source (UTM link in bio) from day one.
 
 ## Proof we can use
